@@ -1,3 +1,0 @@
-# CSE-4095-Intro-to-Tranformers
-
-At the University of Connecticut, I took a class this spring semester 2024 called CSE 4095 Artifical Intelligence: Intro to Transformers. In this class, I learned many useful skills in different models like BERT, decoder, encoder and the model used for gpt. In this repository, I have attached the assignemnts I completed throughout the semester in areas such as introduction to juypter notebook and AI as a whole, attention algorithm and visualization,  fine-tuning and transfer learning on a transformer model (mostly used the models BERT and training it on the IMDB dataset), and lastly an assignment in which I had to use all the elemnets from the class to create a model, fine tune it and then ultimately train it.
